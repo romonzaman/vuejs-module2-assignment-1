@@ -1,0 +1,22 @@
+{
+  "name": "module2_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon excercise1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romonzaman/vuejs-module2-assignment-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romonzaman/vuejs-module2-assignment-1/issues"
+  },
+  "homepage": "https://github.com/romonzaman/vuejs-module2-assignment-1#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
